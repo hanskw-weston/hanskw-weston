@@ -1,8 +1,13 @@
 ## Hi there 👋
 
-<!--
-**hanskw-weston/hanskw-weston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanskw-weston&theme=dracula)
+![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hanskw-weston&theme=dracula)
 
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=hanskw-weston&theme=dracula)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=hanskw-weston&theme=dracula)
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
