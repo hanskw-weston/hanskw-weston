@@ -1,10 +1,7 @@
 ## Hi there 👋
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanskw-weston&theme=dracula)
-![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hanskw-weston&theme=dracula)
-
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=hanskw-weston&theme=dracula)
-
 ![Trophies](https://github-profile-trophy.vercel.app/?username=hanskw-weston&theme=dracula)
 
 <!--
